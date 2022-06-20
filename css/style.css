@@ -138,6 +138,8 @@ ul {
   }
   .logo {
     margin-bottom: 20px;
+      height: 70%;
+      width: 70%;
   }
   .list {
     width: 100%;
@@ -228,7 +230,8 @@ ul {
 
 .home {
   height: 100vh;
-  background-image: url(../images/intro-bg.jpg);
+  
+  background-image: url(../images/intro-bg.jpeg);
   background-position: center center;
   position: relative;
   z-index: 5;
@@ -379,27 +382,27 @@ ul {
   justify-content: space-between;
   align-items: center;
 }
-.simone-info {
+.azza-info {
   width: 65%;
   text-align: left;
 }
-.simone-info h3 {
+.azza-info h3 {
   font-size: 28px;
   font-weight: 600;
   line-height: 35px;
   color: #252b33;
   margin-bottom: 15px;
 }
-.simone-info p {
+.azza-info p {
   font-size: 1rem;
   line-height: 29px;
   color: #4c4d4d;
   margin-bottom: 15px;
 }
-.simone-details {
+.azza-details {
   width: 30%;
 }
-.simone-details h3 {
+.azza-details h3 {
   font-size: 16px;
   line-height: 28px;
   color: #4c4d4d;
@@ -407,26 +410,26 @@ ul {
   font-weight: 600;
   padding: 12px 0;
 }
-.simone-details h3 span a {
+.azza-details h3 span a {
   color: var(--green);
 }
-.simone-details h3 span {
+.azza-details h3 span {
   font-weight: 400;
 }
-.simone-details .btn {
+.azza-details .btn {
   margin-top: 15px;
   display: inline-block;
   padding: 16px 45px;
   font-size: 16px;
   transition: all ease-in-out 0.3s;
 }
-.simone-details .btn:hover {
+.azza-details .btn:hover {
   background-color: #11ab7c;
 }
-.simone-name {
+.azza-name {
   color: var(--green);
 }
-.simone-details .no-brdr {
+.azza-details .no-brdr {
   border-bottom: none;
 }
 .numbers {
@@ -469,17 +472,17 @@ ul {
     flex-direction: column;
     margin-bottom: 20px;
   }
-  .simone-info {
+  .azza-info {
     width: 100%;
   }
-  .simone-details {
+  .azza-details {
     width: 100%;
   }
-  .simone-details h3 {
+  .azza-details h3 {
     font-size: 18px;
     font-weight: 200;
   }
-  .simone-details .btn {
+  .azza-details .btn {
     padding: 12px 25px;
   }
   .numbers {
@@ -516,10 +519,10 @@ ul {
   .main-heading h2 {
     font-size: 30px;
   }
-  .simone-info {
+  .azza-info {
     width: 100%;
   }
-  .simone-details {
+  .azza-details {
     width: 100%;
   }
   .numbers {
@@ -572,16 +575,16 @@ ul {
     justify-content: space-between;
     align-items: center;
   }
-  .simone-details {
+  .azza-details {
     width: 50%;
   }
-  .simone-info {
+  .azza-info {
     width: 45%;
   }
-  .simone-info h3 {
+  .azza-info h3 {
     font-size: 23px;
   }
-  .simone-info p {
+  .azza-info p {
     line-height: 27px;
   }
   .main-heading h1 {
@@ -617,17 +620,17 @@ ul {
     justify-content: space-between;
     align-items: center;
   }
-  .simone-info {
+  .azza-info {
     width: 65%;
   }
-  .simone-details {
+  .azza-details {
     width: 30%;
   }
-  .simone-info h3 {
+  .azza-info h3 {
     font-size: 28px;
     line-height: 35px;
   }
-  .simone-info p {
+  .azza-info p {
     font-size: 16px;
     line-height: 30px;
   }
