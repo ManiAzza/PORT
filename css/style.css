@@ -767,6 +767,8 @@ ul {
 }
 .education {
   width: 48%;
+  justify-content: center;
+  margin: 0 auto;
   text-transform: capitalize;
   margin-bottom: 25px;
 }
